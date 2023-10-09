@@ -1,8 +1,10 @@
-import React from 'react'
+
 import './AboutMe.css'
 
-export const AboutMe = () => {
+
+export default function AboutMe() {
   return (
-    <div>About Me</div>
+    <div>AboutMe</div>
   )
 }
+

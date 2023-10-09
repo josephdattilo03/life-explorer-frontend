@@ -1,8 +1,8 @@
-import React from 'react'
 import './MyRoadmap.css'
 
-export const MyRoadmap = () => {
+export default function MyRoadmap() {
   return (
     <div>MyRoadmap</div>
   )
 }
+

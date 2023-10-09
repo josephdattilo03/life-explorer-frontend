@@ -1,8 +1,9 @@
-import React from 'react'
 import './DiscussionPage.css'
 
-export const DiscussionPage = () => {
+
+export default function DiscussionPage() {
   return (
     <div>DiscussionPage</div>
   )
 }
+

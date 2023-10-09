@@ -1,11 +1,8 @@
-import React from 'react'
-import './MyLibrary.css'
 
-export const MyLibrary = () => {
+
+export default function MyLibrary() {
   return (
-    <div>
-        <h1>My Library</h1>
-
-    </div>
+    <div>MyLibrary</div>
   )
 }
+

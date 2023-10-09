@@ -1,8 +1,8 @@
-import React from 'react'
 import './UserSettings.css'
 
-export const UserSettings = () => {
+export default function UserSettings() {
   return (
-    <div>User Settings</div>
+    <div>UserSettings</div>
   )
 }
+
